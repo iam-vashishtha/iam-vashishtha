@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vishal Vashishtha
 
 💻  Aspiring **DevOps Engineer** with hands-on experience in **AWS, Kubernetes, Terraform, Ansible, and CI/CD**.  
-⚡ Skilled in building scalable cloud infrastructure, automating deployments, and implementing monitoring solutions.  
+⚡ Keen to build scalable cloud infrastructure, automating deployments, and implementing monitoring solutions.  
 🚀 Passionate about Cloud, SRE, and modern DevOps practices.  
 
 ---
